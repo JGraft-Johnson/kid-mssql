@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "UserReplay Reports", "UserReplay Reports\UserReplay Reports.ssmssqlproj", "{0A7DB55C-FCC0-43F4-973F-0C95E5CCF2AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7DB55C-FCC0-43F4-973F-0C95E5CCF2AB}.Default|Default.ActiveCfg = Default
+		{0A7DB55C-FCC0-43F4-973F-0C95E5CCF2AB}.Default|Default.Build.0 = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
